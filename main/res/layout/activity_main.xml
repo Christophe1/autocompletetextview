@@ -9,7 +9,7 @@
                 tools:context=".MainActivity" >
 
     <AutoCompleteTextView
-        android:id="@+id/autoComplete"
+        android:id="@+id/user_name"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
